@@ -62,6 +62,10 @@ Interactive generative-art project combining Mandelbrot rendering, recursive fra
 **Databases:** MySQL · Firebase / Firestore  
 **Other:** Robotics · Digital Logic · File Handling · System Integration
 
+## Certifications
+
+- **Cisco Networking Academy — Introduction to Cybersecurity** (October 2026) · [Verified Credly badge](https://www.credly.com/badges/ce079680-69e7-4e2e-82f0-22fd3f1c6ae1/public_url)
+
 ## About My Work
 
 I prefer projects that solve a concrete problem and require different pieces to work together. My recent work has included humanoid robotics, computer vision, conversational AI, desktop application architecture, relational databases, and hardware-oriented automation.
