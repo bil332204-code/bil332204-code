@@ -1,0 +1,102 @@
+[
+ {
+  "name": "bil332204-code",
+  "description": "My GitHub profile and project portfolio",
+  "url": "https://github.com/bil332204-code/bil332204-code",
+  "stars": 1,
+  "forks": 0,
+  "pushed_at": "2026-11-19T17:00:38Z",
+  "language": "Python",
+  "language_color": "#3572A5"
+ },
+ {
+  "name": "portfolio",
+  "description": null,
+  "url": "https://github.com/bil332204-code/portfolio",
+  "stars": 0,
+  "forks": 0,
+  "pushed_at": "2026-11-18T17:11:05Z",
+  "language": "JavaScript",
+  "language_color": "#f1e05a"
+ },
+ {
+  "name": "AiCON-2026-Milaan",
+  "description": "Milaan \u2014 A payment reconciliation system featuring bank statement processing, receipt verification workflows, intelligent name matching, payment discrepancy detection, and a simulated e-commerce store.",
+  "url": "https://github.com/bil332204-code/AiCON-2026-Milaan",
+  "stars": 0,
+  "forks": 0,
+  "pushed_at": "2026-11-14T15:24:41Z",
+  "language": "Python",
+  "language_color": "#3572A5"
+ },
+ {
+  "name": "DSA-LABS",
+  "description": "C++ Data Structures & Algorithms lab implementations and coursework.",
+  "url": "https://github.com/bil332204-code/DSA-LABS",
+  "stars": 1,
+  "forks": 0,
+  "pushed_at": "2026-10-23T05:48:59Z",
+  "language": "C++",
+  "language_color": "#f34b7d"
+ },
+ {
+  "name": "Website-demo-for-client",
+  "description": null,
+  "url": "https://github.com/bil332204-code/Website-demo-for-client",
+  "stars": 0,
+  "forks": 0,
+  "pushed_at": "2026-10-21T15:21:13Z",
+  "language": "JavaScript",
+  "language_color": "#f1e05a"
+ },
+ {
+  "name": "internship-robots",
+  "description": "AEGIS-JD: Multimodal AI control system for the EZ-Robot JD humanoid integrating computer vision, conversational AI, speech, and face-recognition security.",
+  "url": "https://github.com/bil332204-code/internship-robots",
+  "stars": 2,
+  "forks": 0,
+  "pushed_at": "2026-09-26T19:38:20Z",
+  "language": "Python",
+  "language_color": "#3572A5"
+ },
+ {
+  "name": "freelancing-marketplace-database",
+  "description": "MySQL relational database for a freelancing marketplace featuring normalized schema design, triggers, stored procedures, indexes, views, and analytical queries.",
+  "url": "https://github.com/bil332204-code/freelancing-marketplace-database",
+  "stars": 1,
+  "forks": 0,
+  "pushed_at": "2026-09-26T16:24:42Z",
+  "language": null,
+  "language_color": null
+ },
+ {
+  "name": "fixit-javafx-marketplace",
+  "description": "JavaFX desktop marketplace connecting clients with skilled workers, featuring booking workflows, ratings, file persistence, and OOP architecture.",
+  "url": "https://github.com/bil332204-code/fixit-javafx-marketplace",
+  "stars": 1,
+  "forks": 0,
+  "pushed_at": "2026-09-26T16:15:42Z",
+  "language": "Java",
+  "language_color": "#b07219"
+ },
+ {
+  "name": "fractal-cosmos",
+  "description": "Interactive generative fractal art using Mandelbrot, Sierpinski triangles, recursive trees, and HTML5 Canvas.",
+  "url": "https://github.com/bil332204-code/fractal-cosmos",
+  "stars": 1,
+  "forks": 0,
+  "pushed_at": "2026-09-26T14:52:30Z",
+  "language": "HTML",
+  "language_color": "#e34c26"
+ },
+ {
+  "name": "Information_Security_Labs",
+  "description": "Information Security lab implementations and coursework in C++.",
+  "url": "https://github.com/bil332204-code/Information_Security_Labs",
+  "stars": 1,
+  "forks": 0,
+  "pushed_at": "2026-09-26T14:52:02Z",
+  "language": "C++",
+  "language_color": "#f34b7d"
+ }
+]
