@@ -1,11 +1,21 @@
 [
  {
+  "name": "DSA-LABS",
+  "description": "C++ Data Structures & Algorithms lab implementations and coursework.",
+  "url": "https://github.com/bil332204-code/DSA-LABS",
+  "stars": 1,
+  "forks": 0,
+  "pushed_at": "2026-11-20T07:15:46Z",
+  "language": "C++",
+  "language_color": "#f34b7d"
+ },
+ {
   "name": "bil332204-code",
   "description": "My GitHub profile and project portfolio",
   "url": "https://github.com/bil332204-code/bil332204-code",
   "stars": 1,
   "forks": 0,
-  "pushed_at": "2026-11-19T17:09:44Z",
+  "pushed_at": "2026-11-19T17:09:53Z",
   "language": "Python",
   "language_color": "#3572A5"
  },
@@ -28,16 +38,6 @@
   "pushed_at": "2026-11-14T15:24:41Z",
   "language": "Python",
   "language_color": "#3572A5"
- },
- {
-  "name": "DSA-LABS",
-  "description": "C++ Data Structures & Algorithms lab implementations and coursework.",
-  "url": "https://github.com/bil332204-code/DSA-LABS",
-  "stars": 1,
-  "forks": 0,
-  "pushed_at": "2026-10-23T05:48:59Z",
-  "language": "C++",
-  "language_color": "#f34b7d"
  },
  {
   "name": "Website-demo-for-client",
