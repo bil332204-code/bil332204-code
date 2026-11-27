@@ -1,11 +1,21 @@
 [
  {
+  "name": "AiCON-2026-Milaan",
+  "description": "Milaan \u2014 A payment reconciliation system featuring bank statement processing, receipt verification workflows, intelligent name matching, payment discrepancy detection, and a simulated e-commerce store.",
+  "url": "https://github.com/bil332204-code/AiCON-2026-Milaan",
+  "stars": 0,
+  "forks": 0,
+  "pushed_at": "2026-11-27T07:27:14Z",
+  "language": "Python",
+  "language_color": "#3572A5"
+ },
+ {
   "name": "bil332204-code",
   "description": "My GitHub profile and project portfolio",
   "url": "https://github.com/bil332204-code/bil332204-code",
   "stars": 1,
   "forks": 0,
-  "pushed_at": "2026-11-25T09:50:06Z",
+  "pushed_at": "2026-11-26T09:29:29Z",
   "language": "Python",
   "language_color": "#3572A5"
  },
@@ -28,16 +38,6 @@
   "pushed_at": "2026-11-18T17:11:05Z",
   "language": "JavaScript",
   "language_color": "#f1e05a"
- },
- {
-  "name": "AiCON-2026-Milaan",
-  "description": "Milaan \u2014 A payment reconciliation system featuring bank statement processing, receipt verification workflows, intelligent name matching, payment discrepancy detection, and a simulated e-commerce store.",
-  "url": "https://github.com/bil332204-code/AiCON-2026-Milaan",
-  "stars": 0,
-  "forks": 0,
-  "pushed_at": "2026-11-14T15:24:41Z",
-  "language": "Python",
-  "language_color": "#3572A5"
  },
  {
   "name": "Website-demo-for-client",
